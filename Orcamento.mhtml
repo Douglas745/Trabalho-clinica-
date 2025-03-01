@@ -1,0 +1,153 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5001/
+Subject: Orcamento
+Date: Fri, 28 Feb 2025 21:51:46 -0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--clLSyUSLL7FcB5nULyk0lanl3EFqaqL1oD2afPRmEN----"
+
+
+------MultipartBoundary--clLSyUSLL7FcB5nULyk0lanl3EFqaqL1oD2afPRmEN----
+Content-Type: text/html
+Content-ID: <frame-86B2A89BEA779A8A66BCDE7D1CB91A81@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5001/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <title>Orcamento</title>
+    <link rel=3D"stylesheet" href=3D"http://127.0.0.1:5001/static/style.css=
+">
+</head>
+<body>
+    <h1>Orcamento</h1>
+    <a href=3D"http://127.0.0.1:5001/add">Add Equipment</a>
+    <table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Model</th>
+            <th>Quantity</th>
+            <th>Unit</th>
+            <th>Value</th>
+            <th>Research Link</th>
+            <th>Actions</th>
+        </tr>
+       =20
+        <tr>
+            <td> RACK</td>
+            <td>RACK DE PAREDE 16U</td>
+            <td>9011-LAN</td>
+            <td>1</td>
+            <td>1</td>
+            <td>687.00</td>
+            <td><a href=3D"https://www.mercadolivre.com.br/mini-rack-de-par=
+ede-16u-x-470mm-preto-texturizado-9011-lan/p/MLB24828090?pdp_filters=3Ditem=
+_id%3AMLB3911289775&amp;from=3Dgshop&amp;matt_to" target=3D"_blank">Link</a=
+></td>
+            <td>
+                <a href=3D"http://127.0.0.1:5001/edit/1">Edit</a>
+                <a href=3D"http://127.0.0.1:5001/delete/1">Delete</a>
+            </td>
+        </tr>
+       =20
+        <tr>
+            <td>firewall pfsense</td>
+            <td>8gb/ 128gb</td>
+            <td>j4125 aes-ni</td>
+            <td>1</td>
+            <td>1</td>
+            <td>2499.00</td>
+            <td><a href=3D"https://www.magazineluiza.com.br/firewall-pfsens=
+e-appliance-coslitech-j4125-aes-ni-8gb-128gb/p/kg0g93j75d/in/sefi/" target=
+=3D"_blank">Link</a></td>
+            <td>
+                <a href=3D"http://127.0.0.1:5001/edit/2">Edit</a>
+                <a href=3D"http://127.0.0.1:5001/delete/2">Delete</a>
+            </td>
+        </tr>
+       =20
+        <tr>
+            <td>switch</td>
+            <td>24 portas</td>
+            <td>1830 24g-jl812 a</td>
+            <td>1</td>
+            <td>1</td>
+            <td>2280.15</td>
+            <td><a href=3D"https://www.magazineluiza.com.br/switch-1830-24-=
+portas-10-100-1000-jl812a-hp/p/debh7edac1/in/swit/" target=3D"_blank">Link<=
+/a></td>
+            <td>
+                <a href=3D"http://127.0.0.1:5001/edit/3">Edit</a>
+                <a href=3D"http://127.0.0.1:5001/delete/3">Delete</a>
+            </td>
+        </tr>
+       =20
+        <tr>
+            <td>patch painel</td>
+            <td>24 portas</td>
+            <td>kt6 furukawa soho plus</td>
+            <td>1</td>
+            <td>1</td>
+            <td>1049.00</td>
+            <td><a href=3D"https://www.magazineluiza.com.br/patch-panel-cat=
+-6-t568a-b-24p-furukawa-sohoplus/p/hk43jd282j/in/pchl/" target=3D"_blank">L=
+ink</a></td>
+            <td>
+                <a href=3D"http://127.0.0.1:5001/edit/4">Edit</a>
+                <a href=3D"http://127.0.0.1:5001/delete/4">Delete</a>
+            </td>
+        </tr>
+       =20
+        <tr>
+            <td>roteador modem</td>
+            <td>netgear</td>
+            <td>c-650</td>
+            <td>1</td>
+            <td>1</td>
+            <td>832.00</td>
+            <td><a href=3D"https://www.biostechconecta.com.br/roteador-de-m=
+odem-a-cabo-netgear-c6250-banda-dupla-compativel-com-provedores-de-cabo-inc=
+luindo-xfinity-spectrum-cox-para-planos-de" target=3D"_blank">Link</a></td>
+            <td>
+                <a href=3D"http://127.0.0.1:5001/edit/5">Edit</a>
+                <a href=3D"http://127.0.0.1:5001/delete/5">Delete</a>
+            </td>
+        </tr>
+       =20
+    </tbody></table>
+
+    <div class=3D"budget">
+        <h2>Total Budget: $7347.15</h2>
+    </div>
+
+</body></html>
+------MultipartBoundary--clLSyUSLL7FcB5nULyk0lanl3EFqaqL1oD2afPRmEN----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5001/static/style.css
+
+@charset "utf-8";
+
+body { font-family: Arial, sans-serif; margin: 20px; padding: 20px; }
+
+h1 { font-size: 24px; }
+
+table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+
+table, th, td { border: 1px solid black; }
+
+th, td { padding: 10px; text-align: left; }
+
+a { text-decoration: none; color: blue; }
+
+a:hover { text-decoration: underline; }
+
+.budget { margin-top: 20px; }
+
+@media (max-width: 600px) {
+  table { font-size: 14px; }
+}
+------MultipartBoundary--clLSyUSLL7FcB5nULyk0lanl3EFqaqL1oD2afPRmEN------
